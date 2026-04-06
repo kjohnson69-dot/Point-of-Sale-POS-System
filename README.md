@@ -23,8 +23,10 @@ This point-of-sale system is designed to allow users to process customer transac
 HOW TO RUN ON ANY IDE ----> Most Used IDEs : https://pieces.app/blog/best-ide-for-python 
 
 1. Make sure you have Python software installed or an IDE that supports .py programmes
-2. Locate the .py file -----> PyThugs-POS-ITT103-SP2026.py
-3. Run the program
+2. Open IDE
+3. Locate the .py file -----> PyThugs-POS-ITT103-SP2026.py from project folder PyThugs-Major_Project-ITT103-SP2026
+4. Open the .py file 
+5. Run the program
 
 #HOW TO RUN ON PYCHARM
 1. Ensure you have PyCharm installed 
